@@ -65,6 +65,7 @@ var directiveOrder = []string{
 	// handlers that typically respond to requests
 	"abort",
 	"error",
+	"copy_response",
 	"respond",
 	"metrics",
 	"reverse_proxy",
